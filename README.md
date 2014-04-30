@@ -1,4 +1,4 @@
-_Nincraft Electric Boogaloo_: A _Test Pack Please Ignore_ variation - Minecraft Modpack
+_Nincraft Electric Boogaloo: A Test Pack Please Ignore_ variation - Minecraft Modpack
 ===============
 
 A public repository for all changes to the pack.

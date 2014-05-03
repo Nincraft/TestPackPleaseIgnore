@@ -4,6 +4,7 @@ Additional Buildcraft Objects v1.0.7.558
 Advanced Genetics v1.4.2
 Advanced Solar Panels v3.4.7
 Applied Energistics rv14finale3
+Archimede's Ships v1.4.5
 Armor Status HUD v1.15
 ArsMagica2 v1.1.2b
 AutoUtils v1.0.1
@@ -38,6 +39,8 @@ Ender Prospecting v1.0.1.6
 Ender Storage v1.4.3.6
 Engineer's Toolbox v1.1.8.3
 EVOC v1.0.0a
+Extra Cells v1.6.7d
+ExtraTiC v0.8.0
 Extra Cells v1.6.8f
 Extra Utilities v1.0.3c
 Factorization v0.8.34
@@ -45,12 +48,15 @@ FlatSigns v1.4.0.15
 ForbiddenMagic pr0.333
 Forestry v2.3.1.1\
 ForgeMultipart v1.0.0.250
+Galacticraft v2.0.12.1010
+Galacticraft Planets v2.0.12.1010
 Gendustry v1.0.3.41
 Gravisuite v1.9.9a
 GregTech v4.07o
 Hardcore Ender Expansion v1.5
 iChunUtil v2.4.0
 IC2 Nuclear Control v1.6.2e
+Iguana Tweaks for Tinker's Construct v1.6.X-1p (build 11)
 ImmibisCore v57.2.0
 Immibis' Microblocks v57.6.3
 IndustrialCraft2exp v2.0.397
@@ -60,11 +66,14 @@ InventoryTweaks v1.57-devb86
 IronChests v5.4.1.702
 JABBA v1.1.3
 JourneyMap Unlimited v3.3.2
+KeithyUtils v1.2
 Logistics Pipes v0.7.4dev.145
 Magical Crops v3.2.0_Beta15a
 Magic Bees v2.1.11
 Mekanism v6.1.0.CUSTOM (combined jar)
 Mekanism Generators v6.1.0.CUSTOM (combined jar)
+Metallurgy v3.3.2
+MicdoodleCore v2.0.12.1010
 MineFactoryReloaded v2.7.8-482
 Minetweaker v2.3.1
 Mobius Core v1.2.0
@@ -99,6 +108,7 @@ Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
 RemoteIO v1.11
 ServerTools v1.6.4-23
+SimplyJetpacks v0.1.3
 SlickUtil
 SortFix v1.0
 Steve's Carts 2.0.0b10
@@ -110,6 +120,8 @@ Thaumic Tinkerer KAMI vJ6
 Thermal Expansion v3.0.0.2
 Tinker's Construct v1.5.5.4
 Tinker's Mechworks v1.6.4-19
+Tinker's Steelworks v0.0.3.1
+TPPITweaks v1.1.0-44
 TPPITweaks v1.1.0-45
 Translocators v1.1.0.15
 Twilight Forest v1.20.3

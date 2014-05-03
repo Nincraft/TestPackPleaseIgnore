@@ -1,27 +1,27 @@
-_Test Pack Please Ignore_ - Minecraft Modpack
+_Nincraft Electric Boogaloo: A Test Pack Please Ignore_ variation - Minecraft Modpack
 ===============
 
 A public repository for all changes to the pack.
 
-We have a subreddit at http://www.reddit.com/r/TestPackPleaseIgnore/ . Thanks for reading!
+We have a subreddit at http://www.reddit.com/r/Nincraft
+
+The TPPI subreddit can be found at http://www.reddit.com/r/TestPackPleaseIgnore
 
 Information
 ===============
-_Test Pack Please Ignore_ is a third-party FTB pack made by members of the /r/FeedTheBeast subreddit, officially sanctioned by Slowpoke in late 2013.
-
-To get the pack, enter the code __MegaSharkPunch__ into the FTB private packs option.
+This mod pack is based off Test Pack Please Ignore. We have made some modifications to it for our private server.
 
 Clients: This pack runs best with at least 2.5 GB memory, and 256 MB of permgen. Permgen is automatically set by the FTB launcher, but to set the permgen in a different launcher add the following java parameter: __-XX:PermSize=256M__
 
 Servers: The server download comes with recommended Java arguments. Those were used when initially testing this pack before it released, and it worked great. You may need to allocate more RAM if you have lots of concurrent players online. Never try and allocate too much, Java hates that.
 
 
-When you enter a new world, our book, like the Tinker’s Construct one, will show up in your inventory. ___Read it!___
+When you enter a new world, the TPPI book, like the Tinker’s Construct one, will show up in your inventory. ___Read it!___
 
 
 Reporting Bugs
 ===============
-Submit ___all___ bug reports on this github.
+Submit ___all___ bug reports on this github. If it is a bug with our changes, we will work on fixing it. If it is a bug within TPPI, we will forward it to their github.
 
 To open up an issue: click the issues tab on the right side of the page. Once there, click the “new issue” green button near the top right of the screen in the issues menu, and fill out the subject/title and the body paragraph. 
 
@@ -31,16 +31,16 @@ What does a good bug report look like?
 2. If the game crashed, or if one of the developers ask you to, a copy of your log on some sort of paste website. I recommend http://paste.ubuntu.com/, to allow for maximum characters.
 3. Screenshots, if the issue warrants it and for clarification.
 
-Any questions/comments/concerns can be brought up on our IRC _[here](http://webchat.esper.net/?channels=TestPackPleaseIgnore&prompt=1/#btn)_. 
-
-For everything else you need to know, you can find the information on our own subreddit _[here](http://www.reddit.com/r/testpackpleaseignore)_.
-
-MOST IMPORTANTLY, have fun :)
 
 Developers
 ===============
 
-###Current Team
+###Current Nincraft Team
+- _Nincodedo_
+
+- _Undead\_Zeratul_
+
+###Current TPPI Team
 - _esKaayY (IGN: esKaayY)_
 
 - _tterrag (IGN/Reddit: tterrag1098)_
@@ -51,7 +51,7 @@ Developers
 
 - _dudeedud4 (IGN: sneezing-panda)_
 
-###Past Members
+###Past TPPI Members
 - _phit (reddit: phitriz)_
 
 - _Dr Soda (IGN: Epiksoda11)_
@@ -81,7 +81,7 @@ Thank you for your help!
 
 Current Modlist
 ===============
-Google Doc. Modlist: http://bit.ly/TPPI-Modlist
+Google Doc. Modlist: coming soon
 
 Changelog
 ===============

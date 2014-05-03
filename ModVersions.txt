@@ -108,7 +108,7 @@ Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
 RemoteIO v1.11
 ServerTools v1.6.4-23
-SimplyJetpacks v0.1.3
+SimplyJetpacks v0.1.4.1
 SlickUtil
 SortFix v1.0
 Steve's Carts 2.0.0b10

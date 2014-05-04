@@ -21,7 +21,7 @@ Botania beta16
 BspkrsCore v5.3
 BuildCraft v4.2.2
 BuildCraft Colour Router Addon v0.3.4
-Calclavia Core v1.2.0.312
+Calclavia Core v1.2.0.330
 Carpenter's Blocks v2.0.8
 Chisel v1.5.2
 Code Chicken Core v0.9.0.9
@@ -107,6 +107,7 @@ RcDusts v0.0.6d
 Redstone Arsenal v1.0.0.0
 Reliquary v1.1Custom
 RemoteIO v1.11
+Resonant Induction (Core, Archaic, Electrical, Mechanical) 0.3.1.352
 ServerTools v1.6.4-23
 SimplyJetpacks v0.1.4.1
 SlickUtil
@@ -125,7 +126,7 @@ TPPITweaks v1.1.0-44
 TPPITweaks v1.1.0-45
 Translocators v1.1.0.15
 Twilight Forest v1.20.3
-Universal Electricity Core v3.1.0.74
+Universal Electricity Core v3.1.0.91
 Waila v1.5.1a
 Wireless Redstone - CBE v1.4.0.7
 Witchery v0-16-3_164

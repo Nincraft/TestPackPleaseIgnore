@@ -120,7 +120,7 @@ Thaumcraft v4.1.0g
 Thaumic Reliquary v1.1.1.TPPI
 Thaumic Tinkerer v2.3-137
 Thaumic Tinkerer KAMI vJ6
-Thermal Expansion v3.0.0.6
+Thermal Expansion v3.0.0.7
 Tinker's Construct v1.5.5.4
 Tinker's Mechworks v1.6.4-19
 Tinker's Steelworks v0.0.3.1

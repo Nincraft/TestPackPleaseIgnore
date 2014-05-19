@@ -130,7 +130,7 @@ Translocators v1.1.0.15
 Twilight Forest v1.20.3
 UndergroundBiomes 1.6.x v0.4.2c
 Universal Electricity Core v3.1.0.91
-Waila v1.5.1a
+Waila v1.5.2a
 WildCaves 1.6.4 v0.4.3.4
 Wireless Redstone - CBE v1.4.0.7
 Witchery v0-16-3_164

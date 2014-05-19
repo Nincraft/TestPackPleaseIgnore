@@ -94,7 +94,7 @@ Not Enough Keys v0.0.4
 Numina v0.1.2-55
 Obsidian Pressure Plates v2.0.0.15
 OpenBlocks v1.2.7
-OpenEye v0.4
+OpenEye v0.5
 OpenModsLib v0.4b
 OpenPeripheralAddons v0.1.3
 OpenPeripheralCore v0.3.3

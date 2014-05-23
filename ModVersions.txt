@@ -4,7 +4,6 @@ Additional Buildcraft Objects v1.0.7.558
 Advanced Genetics v1.4.2
 Advanced Solar Panels v3.4.7
 Applied Energistics rv14finale3
-Archimede's Ships v1.4.5
 Armor Status HUD v1.15
 ArsMagica2 v1.1.2b
 AutoUtils v1.0.1
